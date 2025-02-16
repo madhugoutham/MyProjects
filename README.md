@@ -30,6 +30,9 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner, a
 ## Projects & Open Source
 
 Take a look at my repositories to see my latest projects and contributions to the developer community.
+https://github.com/madhugoutham/Titanic_survival_prediction.git
+
+
 
 ## Get in Touch
 
